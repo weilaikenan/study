@@ -24,4 +24,4 @@ store personal doc
 - [Markdown 教程](https://www.markdownguide.org)
 - [Git 快速入门](https://git-scm.com/book/en/v2)
 
-![第一次放图片](yhzr1.png)
+![第一次放图片](https://github.com/weilaikenan/study/blob/main/yhzr1.png)
