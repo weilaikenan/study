@@ -17,3 +17,8 @@ store personal doc
 [链接文字](https://example.com)
 ![图片描述](图片URL路径)  
 `单行代码` print("hello")
+
+欢迎访问我的项目主页： [点击进入项目](https://github.com/weilaikenan)
+**学习资源推荐**  
+- [Markdown 教程](https://www.markdownguide.org)
+- [Git 快速入门](https://git-scm.com/book/en/v2)
